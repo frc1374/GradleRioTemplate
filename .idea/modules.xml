@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRioTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRioTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRioTemplate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRioTemplate_main.iml" group="GradleRioTemplate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRioTemplate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRioTemplate_test.iml" group="GradleRioTemplate" />
+    </modules>
+  </component>
+</project>
